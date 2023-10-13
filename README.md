@@ -1,25 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Clone and open in VS Code.
+Use rails s to start Ruby Rails Server on http://localhost:3000/
+Open React app in another instance of VS Code.
+Use npm start to start React client on http://localhost:3001/
+Open http://localhost:3001/ on two difference web browsers.
+Scroll down on both pages and send a message which should appear on both webpages.
 
 * ...
 # websocket_demo
